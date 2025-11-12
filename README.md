@@ -1,1 +1,10 @@
-# challenge-devsecops
+/app                
+/Dockerfile
+/k8s
+  deployment.yaml
+  service.yaml
+/terraform
+  main.tf
+/.github/workflows
+  ci-cd.yml
+/README.md
